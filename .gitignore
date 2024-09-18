@@ -2,4 +2,6 @@
 src/build
 src/bin
 src/objs
+cmake-build-debug/
+.idea/
 .sconsign.dblite
